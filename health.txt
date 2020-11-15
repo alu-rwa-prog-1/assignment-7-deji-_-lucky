@@ -1,0 +1,24 @@
+Healthcare TechnologyMy project is about Making healthcare accessible to almost everyone on the planet.
+This can be made possible through certain ways which includes Technology.
+Technology has made a lot of things /activities/information possible and accessible by people even in healthcare.
+HealthCare in Africa  is lagging with a lot of gaps.
+This might be due to wrong diagnosis
+Lack of adequate doctors,
+Low ratio of patients to doctors,
+ Rural and inadequate number of hospitals.
+This has been going on for a while and I believe that Technology can solve these problems.That is why I am so interested in Creating a software app.
+Pluto Health is a software app that would be involved in filling a lot of gaps in the healthcare system in Africa,as it would be built based on the Collaboration of different Stakeholders such as 
+Hospital Owners,
+Doctors,
+Nurses,Patients,
+Insurance Companies among others.
+Pluto app would have different sections dedicated to different stakeholders.
+One for Hospitals,One for Private Doctors,
+One for the patients 
+ One for insurance Companies.
+The patients would be able to connect to the other stakeholders using this app.
+The Patients would be able to access a Doctor on Demand,Book an appointment,Pick an insurance Scheme,register with Hospitals among other features.Features that would benefit the Patients
+E-prescription,
+Daily Monitoring for patients with Chronic disease
+,Accessibility to patient files.
+The Hospital can register patients under their Companies and link them with an insurance company of their Choices,also send them ambulances for an urgent case regardless of their registered hospitals among other features.

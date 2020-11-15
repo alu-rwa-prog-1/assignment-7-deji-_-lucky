@@ -1,0 +1,68 @@
+Hospital
+,def innit(self,Name,Location,Registration,Ownership(private or Public),Insurance,Number of doctors,Number of Nurses,ratings)
+ Private Doctors 
+ def innit(self,Name,ID,Qualification,gender,Clinic of work,Clinic ID,ratings)
+Patients
+def innit(self,Name,Age,Gender,Identification Number, Nationality,Occupation)
+Hospital
+def Add patient(self)
+input(Kindly enter your name
+ input(Kindly enter your Age
+input(Kindly enter your nationality)
+input(Do you have an insurance scheme
+if answer== yes
+Kindly enter the name
+If answer==No
+input(Would you like to register under our insurance
+ if answer==Yes
+print List.insurance
+if answer==No
+ print(You would be based on pay as you use 
+ print(You have been added to our patient list
+print(Your ID is 001
+ def remove()
+input(Why do you want to terminate our services with you)
+print(Thanks for believing in us
+ print(Our services are always available
+ def doctor List
+ For X,y in Doctor,Print x,y
+ def Services offered
+print(Service.list)    
+private doctor
+ def private doctors() 
+input(What iS Your name)
+input(Your job ID)
+input(Your qualifications)
+input(Your clinic of work)
+New Doctor=Private Doctor(Name,Qualification,ID,Rating
+ Patients
+ def Private patient
+input(Kindly enter your name)
+input(Kindly enter your age
+input(Kindly enter your ID number)
+input(Kindly enter your Occupation)
+input(Kindly enter your nationality)
+New patient=Patient(Name,age,Occupation)
+ def Ambulance()
+input(Kindly enter your street Number)
+print(You will be connected to hospitals close to you Hospital
+Test scenario for class hospital
+Testing for Valid registraion
+Valid Registration:Combination of Number and Figures for Id
+Check what happens when Valid Registration:Combination of Number and Figures for Id 
+Expected resultA100
+ Testing for the ownership:It must It must be in letters either public or private
+.Test for number of nurses:It must be numeric
+ The Location of the hospital must include two words reply which includes city,State
+ Class: Private Doctor
+Test Case 1:Checking for the Id number
+It must be a combination of numeric and figures
+Test for name:It must be only letters
+ Test for Clinic ID:It must consist of Numeric and letters
+Test for gender:It should be written in one letter,M or F
+Test for ratings:It must be written in one figure
+class Patients
+Test for name:It must be in letters
+Test for gender:It must be written in one letter which is either M or F
+ Test for age:It must be numeric
+Test for nationality:It mst be in letters

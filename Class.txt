@@ -1,0 +1,8 @@
+Classes
+Hospitals
+Private Doctors
+Patients
+Subclasses(Hospital)
+Doctors
+Nurses
+Insurance Companies
